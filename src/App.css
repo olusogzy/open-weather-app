@@ -1,0 +1,22 @@
+/* .App {
+  text-align: center;
+} */
+
+.weather-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.data-div {
+  border: 5px solid black;
+  margin: 50px;
+  padding: 10px 30px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
